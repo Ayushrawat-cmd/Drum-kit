@@ -1,2 +1,2 @@
 # Drum-kit
-this is a drum kit project..Which have some of instruments to play some sound
+This is static website, created using DOM. Just by pressing some keys you can produce best beat.
